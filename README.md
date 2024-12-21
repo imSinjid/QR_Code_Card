@@ -20,8 +20,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/imSinjid/QR_Code_Card)
-- Live Site URL: [Add live site URL here](https://imsinjid.github.io/QR_Code_Card/)
+- Solution URL: [Solution!!!](https://github.com/imSinjid/QR_Code_Card)
+- Live Site URL: [Demo Site!!!](https://imsinjid.github.io/QR_Code_Card/)
 
 ## My process
 
@@ -36,3 +36,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+
+### Author
+
+Github - [imSinjid](https://github.com/imSinjid)
